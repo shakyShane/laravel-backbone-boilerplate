@@ -1,0 +1,33 @@
+* {
+  @include box-sizing(border-box);
+  font-family: $brand-face;
+
+}
+
+html {
+  height: 100%;
+  background: black;
+  position: relative;
+}
+
+$c-nav-links : white;
+nav {
+
+  width: 50%;
+  margin: 0 auto;
+
+}
+
+#main-nav li a {
+  color: $c-nav-links;
+  text-align: center
+}
+
+section {
+  padding-top: 200px;
+  color: #878787;
+  p {
+    text-align: center;
+  }
+
+}

@@ -1,0 +1,32 @@
+{
+  "name": "modernizr",
+  "version": "2.6.2",
+  "homepage": "http://modernizr.com/",
+  "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.",
+  "keywords": [
+    "html",
+    "css",
+    "features",
+    "detection"
+  ],
+  "categories": [
+    "Utilities"
+  ],
+  "maintainers": [{
+    "name": "Faruk Ateş",
+    "web": "http://farukat.es/"
+  }, {
+    "name": "Paul Irish",
+    "web": "http://paulirish.com/"
+  }, {
+    "name": "Alex Sexton",
+    "web": "http://alexsexton.com/"
+  }, {
+    "name": "Ryan Seddon",
+    "web": "http://www.thecssninja.com/"
+  }, {
+    "name": "Alexander Farkas",
+    "web": "http://protofunc.com/"
+  }],
+  "github": "https://github.com/Modernizr/Modernizr"
+}

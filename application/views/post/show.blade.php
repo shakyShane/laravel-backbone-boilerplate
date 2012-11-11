@@ -1,0 +1,1 @@
+This is the C:\wamp\www\re\application\views/post/show.blade.php view

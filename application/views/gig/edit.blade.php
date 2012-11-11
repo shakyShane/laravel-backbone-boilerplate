@@ -1,0 +1,1 @@
+This is the C:\wamp\www\re\application\views/gig/edit.blade.php view
